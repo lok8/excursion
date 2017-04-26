@@ -11,13 +11,13 @@ p,
 a {
   font-family: verdana;
   text-align: center;
+  font-weight: normal;
 }
 
 h1 {
   font-size: 50px;
   color: white;
   text-align: center;
-  font-weight: normal;
 }
 
 h2 {
